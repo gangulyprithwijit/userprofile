@@ -1,0 +1,7 @@
+2020-04-06T16:08:18.984Z info: Web server listening on localhost:3000
+2020-04-06T16:09:03.483Z info: UserQueue[{"UserId":1,"UserName":"Prithwijit Gangopadhyay","UserAge":"25","adress":"72, VidaSagar Lane, Kolkata-700010","phoneNumber":"8971893660"}]
+2020-04-06T16:09:03.485Z info: UserRoleQueue[{"UserId":1,"UserRole":"admin"}]
+2020-04-06T16:12:39.351Z info: UserQueue[{"UserId":1,"UserName":"Prithwijit Gangopadhyay","UserAge":"25","adress":"72, VidaSagar Lane, Kolkata-700010","phoneNumber":"8971893660"},{"UserId":2,"UserName":"Antariksha Gangopadhyay","UserAge":"29","adress":"72, Exide, Kolkata-700010","phoneNumber":"8971893675"}]
+2020-04-06T16:12:39.351Z info: UserRoleQueue[{"UserId":1,"UserRole":"admin"},{"UserId":2,"UserRole":"User"}]
+2020-04-06T16:15:38.563Z info: UserQueue[{"UserId":1,"UserName":"Prithwijit Gangopadhyay","UserAge":"25","adress":"72, VidaSagar Lane, Kolkata-700010","phoneNumber":"8971893660"},{"UserId":2,"UserName":"Antariksha Gangopadhyay","UserAge":"29","adress":"72, Exide, Kolkata-700010","phoneNumber":"8971893675"},{"UserId":3,"UserName":"Robison Maclie","UserAge":"78","adress":"72, Sealdah, Kolkata-700010","phoneNumber":"98308963736"}]
+2020-04-06T16:15:38.563Z info: UserRoleQueue[{"UserId":1,"UserRole":"admin"},{"UserId":2,"UserRole":"User"},{"UserId":3,"UserRole":"User"}]

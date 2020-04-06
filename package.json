@@ -1,0 +1,35 @@
+{
+  "name": "userProfile",
+  "version": "0.0.1",
+  "description": "userProfile microserver v.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --exit --timeout 20000",
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "Prithwijit",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dateformat": "^3.0.3",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "express-metrics": "^1.1.0",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "jsonexport": "^2.4.1",
+    "node-gyp": "^4.0.0",
+    "nodejs-model": "^0.1.6",
+    "request": "^2.88.0",
+    "winston": "^3.1.0",
+    "winston-daily-rotate-file": "^3.5.1"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "chai-http": "^4.0.0",
+    "mocha": "^5.2.0",
+    "nodemon": "^1.18.2",
+    "should": "^13.2.1"
+  }
+}
